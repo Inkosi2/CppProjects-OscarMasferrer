@@ -90,6 +90,6 @@ void main() {
 		std::cout << "Has muerto";
 	}
 	else {
-		std::cout << "Estás bien";
+		std::cout << "Estás vivo";
 	}
 }
