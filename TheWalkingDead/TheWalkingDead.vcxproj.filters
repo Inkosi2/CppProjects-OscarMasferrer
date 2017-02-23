@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Random​EnemyGenerator.cpp">
+    <ClCompile Include="TWD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

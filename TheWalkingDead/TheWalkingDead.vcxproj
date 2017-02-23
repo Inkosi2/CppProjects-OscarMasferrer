@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{30695D5B-F1FE-4CB2-A6A0-5027E802697C}</ProjectGuid>
+    <ProjectGuid>{4E4B840F-8A9F-4C26-B22F-E4C236D20200}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Random​EnemyGenerator</RootNamespace>
+    <RootNamespace>TheWalkingDead</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Random​EnemyGenerator.cpp" />
+    <ClCompile Include="TWD.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
